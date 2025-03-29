@@ -24,9 +24,9 @@ services:
       - key: N8N_BASIC_AUTH_ACTIVE
         value: "true"
       - key: N8N_BASIC_AUTH_USER
-        value: "archis" # Змініть на ваш логін, якщо хочете
+        value: "arthurabramenko@gmail.com" # Змініть на ваш логін, якщо хочете
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: "Absolute9" # Змініть на ваш власний пароль
+        value: "zizwu8-jivbiv-fesdoP" # Змініть на ваш власний пароль
 
       # Database connection details for Supabase PostgreSQL
       - key: DB_TYPE
